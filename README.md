@@ -41,8 +41,8 @@ It has two parts:
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/shaikhsaniyaa0029-cloud/customer-data-cleaning-segmentation.git
+cd customer-data-cleaning-segmentation
 python -m venv .venv
 .venv\Scripts\activate          # Windows   (macOS/Linux: source .venv/bin/activate)
 pip install -r requirements.txt
