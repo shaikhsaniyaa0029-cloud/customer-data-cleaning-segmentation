@@ -1,0 +1,426 @@
+Customer ID,Name,Email,Signup Date,Age,Country,Spend
+C0354,ALICE SMITH,-,2021-03-20,74,USA,1386.56
+C0270,Jack   Wilson,jack.wilson270@example.com,06/07/2021,64,england,4321.85
+C0089,Grace   Kim,grace.kim89@example.com,2025-10-16,43,UK,3185.09
+C0082,Dev Patel,dev.patel82@example.com,12/29/2025,65,,n/a
+C0017,Isha   Rao,isha.rao17@example.com,11/24/2022,28,Bharat,"$1,498.44"
+C0346,grace kim,GRACE.KIM346@EXAMPLE.COM,2023-06-14,44,UK,2880.37
+C0190,RAHUL MEHTA,rahul.mehta190@example.com,19 May 2025,62,India,"$1,017.35"
+C0145,  Pooja Shah ,pooja.shah145@example.com,06 Sep 2023,61,United States,"$4,698.93"
+C0028,Noah   Davis,noah.davis28@example.com,2024-10-12,48,India,$835.48
+C0176,Pooja Shah,pooja.shah176@example.com,06/01/2023,36,USA,4834.48
+C0232,Alice Smith,ALICE.SMITH232@EXAMPLE.COM,2024-07-08,39,India,4246.37
+C0311,Bob Jones,bob.jones311@example.com,2022-06-21,33,UK,1659.38
+C0127,Sara   Ali,-,23 May 2024,46,england,$188.71
+C0068,LIAM CHEN,liam.chen68@example.com,12/06/2024,72,United Kingdom,4396.24
+C0366,DEV PATEL,dev.patel366@example.com,24 Dec 2021,32,USA,1006.74
+C0263,  Grace Kim ,grace.kim263@example.com,2021-02-11,60,UK,"$4,476.69"
+C0084,ISHA RAO,isha.rao84@example.com,05 May 2023,25,United Kingdom,n/a
+C0295,MAYA SINGH,maya.singh295@example.com,12/19/2024,32,UK,1025.50
+C0210,Bob   Jones,bad-email,04/12/2025,62,United States,n/a
+C0015,Olivia Martin,olivia.martin15@example.com,"May 16, 2025",63,India,$236.51
+C0261,  Maya Singh ,maya.singh261@example.com,"May 22, 2021",69.0,england,2427.01
+C0016,Grace   Kim,grace.kim16@example.com,"January 03, 2025",51,United Kingdom,"$3,219.57"
+C0289,  Carol Lee ,CAROL.LEE289@EXAMPLE.COM,2023-12-03,70,england,4273.36
+C0206,Carol Lee,carol.lee206@example.com,2022-12-23,42,United Kingdom,n/a
+C0074,SARA ALI,sara.ali74@example.com,"September 28, 2021",29,Bharat,2851.48
+C0315,  Grace Kim ,grace.kim315@example.com,29 Nov 2022,54,India,1253.44
+C0205,Kavya Nair,kavya.nair205@example.com,23 Nov 2022,20,United States,2223.10
+C0215,Alice   Smith,alice.smith215@example.com,12 Jan 2025,unknown,United States,"$2,694.26"
+C0274,KAVYA NAIR,kavya.nair274@example.com,2024-05-29,33,U.S.,USD 1933.36
+C0225,QUINN TAYLOR,quinn.taylor225@example.com,02/26/2025,23,United States,n/a
+C0335,Bob Jones,BOB.JONES335@EXAMPLE.COM,07/12/2021,53,Bharat,n/a
+C0062,  Sara Ali ,sara.ali62@example.com,2024-01-03,39,,"$1,315.72"
+C0104,Kavya   Nair,kavya.nair104@example.com,2022-05-07,71,United States,"$4,905.40"
+C0041,RAHUL MEHTA,rahul.mehta41@example.com,"February 24, 2021",60,United States,n/a
+C0125,  Pooja Shah ,pooja.shah125@example.com,21 Mar 2025,48,United States,USD 4367.48
+C0252,Emma Brown,emma.brown252@example.com,2024-02-02,54,United Kingdom,3140.74
+C0156,  Isha Rao ,isha.rao156@example.com,28 Aug 2023,73,Bharat,"$4,082.50"
+C0081,Quinn   Taylor,quinn.taylor81@example.com,"September 28, 2024",33,UK,3039.37
+C0205,Kavya Nair,,23 Nov 2022,,United States,
+C0362,GRACE KIM,grace.kim362@example.com,"January 05, 2024",42,england,3570.15
+C0128,SARA ALI,sara.ali128@example.com,09/29/2023,75,U.S.,$832.77
+C0192,dev patel,null,2025-10-19,48,,"$1,758.04"
+C0300,Liam   Chen,,22 Dec 2023,55,,3890.35
+C0324,KAVYA NAIR,kavya.nair324@example.com,2024-02-17,unknown,Bharat,684.08
+C0264,maya singh,MAYA.SINGH264@EXAMPLE.COM,2021-02-05,75,england,"$4,650.83"
+C0135,isha rao,isha.rao135@example.com,2023-10-29,49,India,1144.36
+C0283,Alice   Smith,alice.smith283@example.com,"December 26, 2023",57,Bharat,USD 4256.44
+C0067,olivia martin,OLIVIA.MARTIN67@EXAMPLE.COM,19 Aug 2023,65.0,,9999999
+C0331,  Farid Khan ,N/A,02/18/2021,18,U.S.,
+C0165,sara ali,null,01/23/2024,69,United Kingdom,2373.42
+C0272,isha rao,isha.rao272@example.com,03/22/2024,19,United Kingdom,728.09
+C0108,ALICE SMITH,alice.smith108@example.com,09/05/2022,33.0,USA,183.39
+C0302,  Emma Brown ,bad-email,2024-03-15,64,United States,$394.91
+C0129,carol lee,carol.lee129@example.com,2022-11-20,37,Bharat,2558.48
+C0124,  Grace Kim ,grace.kim124@example.com,2024-05-10,61,United States,4988.38
+C0245,DEV PATEL,dev.patel245@example.com,12/20/2023,23,USA,3417.80
+C0267,ISHA RAO,isha.rao267@example.com,2025-05-16,69,england,"$1,854.97"
+C0382,JACK WILSON,jack.wilson382@example.com,2031-01-01,55,USA,3249.06
+C0291,rahul mehta,rahul.mehta291@example.com,10/24/2025,56,,4572.02
+C0131,NA,null,17 Apr 2025,71,India,"$4,632.39"
+C0326,RAHUL MEHTA,rahul.mehta326@example.com,2025-08-19,41,United Kingdom,"$2,219.28"
+C0248,  Quinn Taylor ,quinn.taylor248@example.com,08/13/2022,31,U.S.,1417.01
+C0365,NA,jack.wilson365@example.com,30 Nov 2024,58,Bharat,USD 1884.02
+C0387,jack wilson,jack.wilson387@example.com,11/12/2022,23,,"$4,576.60"
+C0173,rahul mehta,,13 Jul 2023,,U.S.,
+C0057,Carol Lee,carol.lee57@example.com,12/13/2022,44,england,979.10
+C0260,Maya   Singh,maya.singh260@example.com,"March 22, 2024",43,UK,1084.81
+C0137,KAVYA NAIR,kavya.nair137@example.com,28 Feb 2021,72,UK,"$4,356.25"
+C0025,  Isha Rao ,isha.rao25@example.com,27 Jan 2024,42,Bharat,3062.72
+C0246,Alice   Smith,ALICE.SMITH246@EXAMPLE.COM,,39,england,4031.82
+C0032,Isha   Rao,ISHA.RAO32@EXAMPLE.COM,02/08/2025,60,Bharat,n/a
+C0106,  Tom Green ,tom.green106@example.com,2023-10-25,29,India,"$3,406.57"
+C0341,GRACE KIM,grace.kim341@example.com,13 Feb 2023,250,India,
+C0329,FARID KHAN,-,12/14/2025,39,england,"$3,330.68"
+C0320,alice smith,alice.smith320@example.com,04 Oct 2025,69,Bharat,3465.46
+C0038,  Jack Wilson ,NA,2031-01-01,21,USA,3496.98
+C0391,Emma   Brown,emma.brown391@example.com,"February 25, 2025",61,United Kingdom,2200.19
+C0117,GRACE KIM,grace.kim117@example.com,"October 10, 2025",60,USA,4745.39
+C0154,HIRO TANAKA,NA,2021-04-28,39,U.S.,1165.91
+C0160,bob jones,bob.jones160@example.com,25 Jun 2022,28,USA,24.11
+C0102,GRACE KIM,grace.kim102@example.com,"April 04, 2022",55,India,597.18
+C0202,  Liam Chen ,LIAM.CHEN202@EXAMPLE.COM,2023-03-16,21,,"$1,186.44"
+C0285,Dev Patel,dev.patel285@example.com,,22,UK,USD 3035.85
+C0378,N/A,-,2022-10-10,55,India,2420.91
+C0281,kavya nair,kavya.nair281@example.com,"May 26, 2023",39,United States,$25.24
+C0115,  Liam Chen ,LIAM.CHEN115@EXAMPLE.COM,"July 21, 2024",42,Bharat,USD 3497.63
+C0103,ALICE SMITH,alice.smith103@example.com,,32,,2293.61
+C0306,SARA ALI,sara.ali306@example.com,2031-01-01,19,Bharat,4970.57
+C0113,Sara   Ali,sara.ali113@example.com,09/21/2022,36.0,United Kingdom,1788.72
+C0056,  Emma Brown ,emma.brown56@example.com,10/23/2024,,Bharat,2293.13
+C0310,carol lee,-,2022-01-03,73,,2069.70
+C0147,Liam   Chen,liam.chen147@example.com,02 Feb 2024,55,India,"$4,933.76"
+C0357,  Maya Singh ,maya.singh357@example.com,2021-07-26,56,USA,1003.03
+C0390,noah davis,noah.davis390@example.com,2025-02-24,30,India,2896.67
+C0240,bob jones,bob.jones240@example.com,10/21/2021,36,Bharat,"$4,582.34"
+C0371,Grace   Kim,grace.kim371@example.com,2024-05-02,36,United States,256.46
+C0219,Maya Singh,maya.singh219@example.com,"March 23, 2023",53,U.S.,"$4,675.09"
+C0162,NA,carol.lee162@example.com,19 Sep 2021,51,UK,n/a
+C0158,MAYA SINGH,maya.singh158@example.com,29 May 2022,35,USA,"$1,290.83"
+C0241,BOB JONES,bob.jones241@example.com,03 Aug 2025,24,United Kingdom,999.43
+C0242,NA,no_at_sign.com,2023-09-28,59,India,3227.55
+C0280,Grace   Kim,grace.kim280@example.com,03/20/2023,26,United Kingdom,2859.56
+C0187,NA,dev.patel187@example.com,2022-11-07,unknown,United Kingdom,3083.38
+C0155,Jack   Wilson,jack.wilson155@example.com,14 Feb 2025,55,england,"$3,918.53"
+C0321,  Farid Khan ,farid.khan321@example.com,19 Jul 2023,44,UK,3736.44
+C0083,olivia martin,olivia.martin83@example.com,18 Jan 2025,62,India,1988.27
+C0054,Dev Patel,dev.patel54@example.com,11/21/2024,72,United States,1248.47
+C0085,ISHA RAO,null,"November 29, 2024",27,england,4588.63
+C0368,Hiro Tanaka,null,04/03/2021,,United Kingdom,4136.80
+C0052,Maya   Singh,maya.singh52@example.com,06 Aug 2022,42,United States,2316.28
+C0099,dev patel,NA,"January 26, 2023",22,United Kingdom,4125.59
+C0011,ALICE SMITH,,2021-12-25,34,United Kingdom,3891.48
+C0331,  Farid Khan ,,02/18/2021,,U.S.,
+C0143,isha rao,isha.rao143@example.com,"March 14, 2021",43,United States,2802.20
+C0075,sara ali,sara.ali75@example.com,12/05/2021,55,USA,3370.81
+C0071,Hiro Tanaka,,"December 19, 2025",,United Kingdom,
+C0279,Grace   Kim,,07 Oct 2023,,UK,
+C0138,Grace Kim,grace.kim138@example.com,08 Jul 2023,48,,80.46
+C0266,liam chen,liam.chen266@example.com,06 Dec 2025,44,United Kingdom,"$3,272.26"
+C0024,  Alice Smith ,alice.smith24@example.com,"November 18, 2022",74,UK,2303.63
+C0380,Bob   Jones,,05 Jul 2023,,United Kingdom,
+C0196,  Liam Chen ,liam.chen196@example.com,2022-08-15,,USA,1301.79
+C0198,Carol   Lee,carol.lee198@example.com,2022-11-15,47,India,4068.27
+C0262,TOM GREEN,tom.green262@example.com,2023-07-04,-5,Bharat,USD 3736.48
+C0231,Emma   Brown,NA,03 Jan 2021,45,U.S.,1266.88
+C0393,KAVYA NAIR,kavya.nair393@example.com,,34,United Kingdom,2835.87
+C0060,Liam Chen,liam.chen60@example.com,2023-09-11,44,Bharat,$481.93
+C0051,Sara   Ali,sara.ali51@example.com,2031-01-01,21,India,"$3,121.09"
+C0039,RAHUL MEHTA,RAHUL.MEHTA39@EXAMPLE.COM,2024-05-31,,U.S.,1667.06
+C0189,Maya   Singh,maya.singh189@example.com,"March 31, 2022",50,U.S.,3789.46
+C0006,  Grace Kim ,grace.kim6@example.com,10/31/2022,70,Bharat,3504.54
+C0076,  Jack Wilson ,jack.wilson76@example.com,"August 06, 2024",54,United States,273.15
+C0048,OLIVIA MARTIN,olivia.martin48@example.com,06/25/2022,67,USA,"$2,036.18"
+C0047,Grace Kim,grace.kim47@example.com,"May 19, 2025",62,United States,"$4,923.15"
+C0071,Hiro Tanaka,NA,"December 19, 2025",45,United Kingdom,221.19
+C0201,CAROL LEE,,2024-06-22,,U.S.,
+C0080,JACK WILSON,JACK.WILSON80@EXAMPLE.COM,02/28/2025,70,USA,3961.43
+C0031,  Alice Smith ,alice.smith31@example.com,29 Jan 2023,34,United Kingdom,3521.11
+C0237,Isha Rao,isha.rao237@example.com,03/31/2023,35,United States,193.88
+C0212,tom green,tom.green212@example.com,31 Aug 2025,55,england,4496.11
+C0180,tom green,tom.green180@example.com,12/26/2025,27,United States,4262.79
+C0116,quinn taylor,quinn.taylor116@example.com,2024-10-01,55,U.S.,9999999
+C0026,  Olivia Martin ,olivia.martin26@example.com,12/26/2021,43,USA,USD 3137.54
+C0066,Rahul   Mehta,rahul.mehta66@example.com,11/23/2022,71,Bharat,4665.24
+C0173,rahul mehta,rahul.mehta173@example.com,13 Jul 2023,59,U.S.,3301.05
+C0339,KAVYA NAIR,kavya.nair339@example.com,"February 11, 2022",36,USA,4711.82
+C0249,olivia martin,olivia.martin249@example.com,12/29/2024,24,UK,2338.73
+C0197,Emma Brown,emma.brown197@example.com,03/13/2021,51,Bharat,"$4,249.97"
+C0175,liam chen,no_at_sign.com,26 Apr 2022,37.0,,4111.77
+C0069,Emma Brown,emma.brown69@example.com,"October 28, 2023",55,United Kingdom,3043.91
+C0333,CAROL LEE,carol.lee333@example.com,10 Feb 2024,53,Bharat,9999999
+C0078,Dev Patel,dev.patel78@example.com,2024-08-20,62,Bharat,3546.62
+C0244,Quinn Taylor,john@@x,23 Nov 2021,48,Bharat,3411.21
+C0230,  Maya Singh ,maya.singh230@example.com,2024-04-08,67,United States,2525.73
+C0356,Hiro Tanaka,hiro.tanaka356@example.com,07/16/2023,74.0,Bharat,"$1,699.62"
+C0059,  Olivia Martin ,olivia.martin59@example.com,01/02/2025,,Bharat,4467.29
+C0126,Kavya Nair,kavya.nair126@example.com,2025-08-04,72,england,2535.66
+C0043,Farid   Khan,no_at_sign.com,10/24/2024,50,Bharat,"$3,796.94"
+C0005,  Bob Jones ,BOB.JONES5@EXAMPLE.COM,"December 23, 2025",56,U.S.,2043.81
+C0122,ALICE SMITH,alice.smith122@example.com,"December 15, 2022",50,U.S.,2990.30
+C0195,Rahul   Mehta,rahul.mehta195@example.com,"July 17, 2023",39,United States,USD 3533.14
+C0167,carol lee,carol.lee167@example.com,2023-02-08,20,India,2178.20
+C0229,tom green,tom.green229@example.com,11 Aug 2021,52,USA,"$1,515.59"
+C0273,Emma   Brown,emma.brown273@example.com,2022-02-04,64,U.S.,3921.40
+C0110,Maya Singh,maya.singh110@example.com,04/18/2024,43,United Kingdom,1340.76
+C0119,Carol   Lee,carol.lee119@example.com,2024-04-07,unknown,India,868.19
+C0292,  Emma Brown ,EMMA.BROWN292@EXAMPLE.COM,09/18/2021,61,england,1213.63
+C0198,Carol   Lee,carol.lee198@example.com,2022-11-15,47,India,4068.27
+C0007,Dev   Patel,DEV.PATEL7@EXAMPLE.COM,2021-09-13,51,Bharat,"$3,256.24"
+C0303,HIRO TANAKA,hiro.tanaka303@example.com,05/26/2024,30,england,"$3,783.37"
+C0383,RAHUL MEHTA,-,27 Jul 2025,22,,
+C0186,sara ali,sara.ali186@example.com,02 Sep 2022,25,USA,1912.39
+C0256,Grace Kim,grace.kim256@example.com,2025-10-31,27,england,"$4,901.62"
+C0234,Emma Brown,emma.brown234@example.com,05/15/2021,57,United States,2345.75
+C0191,QUINN TAYLOR,quinn.taylor191@example.com,25 Jul 2023,30,United Kingdom,3317.01
+C0269,NA,tom.green269@example.com,"May 15, 2021",53,U.S.,"$3,635.29"
+C0211,Isha   Rao,isha.rao211@example.com,24 May 2024,44,United States,1052.72
+C0381,RAHUL MEHTA,rahul.mehta381@example.com,18 Apr 2021,49,United Kingdom,2321.28
+C0004,Olivia Martin,olivia.martin4@example.com,14 Mar 2023,56,United Kingdom,2366.06
+C0194,HIRO TANAKA,hiro.tanaka194@example.com,"September 22, 2023",34,India,1652.65
+C0123,kavya nair,KAVYA.NAIR123@EXAMPLE.COM,2025-04-02,72,India,636.74
+C0079,OLIVIA MARTIN,olivia.martin79@example.com,11/28/2021,28,United States,2348.07
+C0334,OLIVIA MARTIN,olivia.martin334@example.com,26 Feb 2021,74,,"$4,321.97"
+C0329,FARID KHAN,-,12/14/2025,39,england,"$3,330.68"
+C0065,Tom Green,tom.green65@example.com,2021-06-07,51,United Kingdom,4034.83
+C0019,Noah   Davis,noah.davis19@example.com,"August 12, 2023",60,USA,4000.24
+C0293,  Noah Davis ,noah.davis293@example.com,2024-07-15,56,United Kingdom,3625.16
+C0152,  Carol Lee ,carol.lee152@example.com,"July 19, 2022",71,USA,"$2,823.79"
+C0189,Maya   Singh,maya.singh189@example.com,"March 31, 2022",50,U.S.,3789.46
+C0044,  Emma Brown ,emma.brown44@example.com,23 Jan 2022,37,UK,
+C0181,Alice Smith,alice.smith181@example.com,06/01/2023,50,United States,1547.73
+C0298,maya singh,maya.singh298@example.com,24 Sep 2023,53.0,USA,
+C0164,noah davis,noah.davis164@example.com,06/23/2022,55,UK,2427.89
+C0282,HIRO TANAKA,hiro.tanaka282@example.com,2023-10-19,37,United Kingdom,3358.42
+C0141,EMMA BROWN,emma.brown141@example.com,"October 08, 2024",52,USA,3250.01
+C0367,  Hiro Tanaka ,hiro.tanaka367@example.com,2025-03-25,73,england,USD 1463.66
+C0399,  Bob Jones ,bob.jones399@example.com,2023-08-31,73,UK,1381.36
+C0033,Quinn   Taylor,,05 Nov 2022,,,
+C0288,RAHUL MEHTA,rahul.mehta288@example.com,12/08/2025,51,USA,3777.07
+C0314,kavya nair,kavya.nair314@example.com,2023-06-06,62,Bharat,
+C0271,rahul mehta,rahul.mehta271@example.com,"September 12, 2022",58,UK,4346.35
+C0169,  Bob Jones ,bad-email,2025-03-30,69,United States,"$1,130.72"
+C0348,HIRO TANAKA,hiro.tanaka348@example.com,05 Jun 2021,23,,2651.68
+C0046,olivia martin,olivia.martin46@example.com,03/21/2022,29.0,Bharat,"$3,772.45"
+C0307,BOB JONES,bob.jones307@example.com,2024-11-07,31,United Kingdom,157.77
+C0144,Emma   Brown,,"February 17, 2025",61,USA,3222.97
+C0238,Grace   Kim,grace.kim238@example.com,"August 24, 2024",32,United Kingdom,"$3,640.54"
+C0226,Maya   Singh,-,"April 07, 2024",70,United States,2649.34
+C0042,Hiro Tanaka,N/A,20 Aug 2021,unknown,United Kingdom,4404.29
+C0228,carol lee,carol.lee228@example.com,N/A,24,India,1371.51
+C0022,emma brown,,2022-03-16,44,england,3888.30
+C0279,Grace   Kim,grace.kim279@example.com,07 Oct 2023,32,UK,$872.60
+C0109,kavya nair,kavya.nair109@example.com,"May 25, 2023",69,United Kingdom,USD 2183.06
+C0178,  Quinn Taylor ,quinn.taylor178@example.com,"January 21, 2024",57,United Kingdom,1404.81
+C0058,Farid   Khan,farid.khan58@example.com,2024-06-06,64,england,4960.37
+C0395,Dev Patel,dev.patel395@example.com,2021-03-26,40,UK,1370.26
+C0204,GRACE KIM,grace.kim204@example.com,08/09/2024,69,UK,$983.06
+C0297,  Maya Singh ,NA,06 Feb 2025,66,Bharat,2578.32
+C0340,  Grace Kim ,grace.kim340@example.com,17 Apr 2023,69,United Kingdom,850.65
+C0394,bob jones,bob.jones394@example.com,"April 25, 2024",29,United Kingdom,3539.26
+C0171,null,liam.chen171@example.com,,25,UK,"$2,216.39"
+C0030,KAVYA NAIR,kavya.nair30@example.com,07 Nov 2022,47,United States,9999999
+C0163,maya singh,maya.singh163@example.com,26 Nov 2025,23,United States,"$1,771.48"
+C0150,Grace   Kim,john@@x,09 Dec 2021,26,england,4568.64
+C0398,-,liam.chen398@example.com,,66,United Kingdom,3711.14
+C0200,grace kim,GRACE.KIM200@EXAMPLE.COM,2024-01-16,66,India,"$4,410.96"
+C0343,Noah   Davis,noah.davis343@example.com,2022-08-02,64,Bharat,4163.70
+C0095,Carol   Lee,carol.lee95@example.com,2023-08-20,37,United States,4302.65
+C0255,rahul mehta,RAHUL.MEHTA255@EXAMPLE.COM,2024-08-26,52,U.S.,147.15
+C0379,hiro tanaka,hiro.tanaka379@example.com,,47,U.S.,4583.60
+C0222,sara ali,no_at_sign.com,14 Dec 2023,30,U.S.,"$3,623.50"
+C0086,Isha Rao,isha.rao86@example.com,2024-02-08,34,United States,606.86
+C0133,Hiro Tanaka,hiro.tanaka133@example.com,"April 21, 2025",50,Bharat,4512.71
+C0188,  Emma Brown ,emma.brown188@example.com,"May 07, 2024",65,United Kingdom,3676.29
+C0239,FARID KHAN,farid.khan239@example.com,09 May 2023,64,United Kingdom,1244.72
+C0090,carol lee,CAROL.LEE90@EXAMPLE.COM,14 Jun 2021,28,Bharat,375.10
+C0012,quinn taylor,quinn.taylor12@example.com,,41,Bharat,1518.72
+C0035,  Isha Rao ,isha.rao35@example.com,"September 02, 2024",52,england,1974.00
+C0218,bob jones,bob.jones218@example.com,20 Jan 2023,41.0,USA,9999999
+C0073,rahul mehta,rahul.mehta73@example.com,2022-05-26,38,UK,1969.70
+C0385,Alice Smith,alice.smith385@example.com,2025-12-27,23,USA,2572.84
+C0251,Kavya   Nair,kavya.nair251@example.com,2023-11-25,31,U.S.,"$3,714.27"
+C0372,  Noah Davis ,NOAH.DAVIS372@EXAMPLE.COM,05/03/2024,70,UK,2743.15
+C0340,  Grace Kim ,grace.kim340@example.com,17 Apr 2023,69,United Kingdom,850.65
+C0140,Liam   Chen,liam.chen140@example.com,"May 29, 2025",41,england,4351.03
+C0322,  Carol Lee ,carol.lee322@example.com,"October 24, 2024",40,India,"$1,382.56"
+C0285,Dev Patel,dev.patel285@example.com,,22,UK,USD 3035.85
+C0112,LIAM CHEN,liam.chen112@example.com,"November 23, 2022",24,United Kingdom,"$4,686.52"
+C0349,Liam   Chen,liam.chen349@example.com,"May 30, 2023",41,United Kingdom,"$4,013.09"
+C0013,Noah Davis,noah.davis13@example.com,"July 19, 2021",34,Bharat,"$3,988.15"
+C0221,Jack   Wilson,jack.wilson221@example.com,"June 17, 2025",31,Bharat,4761.96
+C0088,  Maya Singh ,bad-email,08/08/2022,50,england,2488.11
+C0199,  Bob Jones ,bob.jones199@example.com,"January 14, 2022",36,Bharat,"$2,692.34"
+C0214,ISHA RAO,ISHA.RAO214@EXAMPLE.COM,09 Sep 2022,22,UK,4879.96
+C0374,Quinn   Taylor,QUINN.TAYLOR374@EXAMPLE.COM,01/13/2023,,U.S.,1794.39
+C0235,Quinn   Taylor,quinn.taylor235@example.com,13 Feb 2024,36.0,UK,"$1,370.94"
+C0358,carol lee,carol.lee358@example.com,03/17/2023,27,U.S.,81.43
+C0292,  Emma Brown ,EMMA.BROWN292@EXAMPLE.COM,09/18/2021,61,england,1213.63
+C0330,pooja shah,pooja.shah330@example.com,2025-06-11,51,,"$3,936.22"
+C0097,alice smith,alice.smith97@example.com,N/A,23,U.S.,3040.70
+C0299,  Tom Green ,john@@x,"June 28, 2022",24,United Kingdom,"$4,207.07"
+C0064,  Carol Lee ,carol.lee64@example.com,2022-09-17,33,U.S.,"$3,060.22"
+C0223,Liam   Chen,liam.chen223@example.com,2021-03-31,38,United States,"$2,206.71"
+C0096,NOAH DAVIS,noah.davis96@example.com,2024-09-29,64.0,U.S.,"$1,666.77"
+C0014,  Rahul Mehta ,rahul.mehta14@example.com,02 May 2021,unknown,U.S.,747.94
+C0018,tom green,tom.green18@example.com,2024-01-27,54,United Kingdom,3634.06
+C0304,Jack   Wilson,jack.wilson304@example.com,22 Nov 2025,51,India,
+C0247,CAROL LEE,carol.lee247@example.com,25 Aug 2023,32,U.S.,"$3,485.48"
+C0328,farid khan,-,"November 29, 2024",68,United Kingdom,2019.57
+C0208,Carol   Lee,carol.lee208@example.com,02/09/2024,37,england,4527.86
+C0091,ISHA RAO,isha.rao91@example.com,"October 08, 2021",61,United Kingdom,4213.51
+C0322,  Carol Lee ,carol.lee322@example.com,"October 24, 2024",40,India,"$1,382.56"
+C0040,Jack Wilson,jack.wilson40@example.com,2021-01-09,34,england,3103.21
+C0087,pooja shah,pooja.shah87@example.com,"October 11, 2022",55,U.S.,n/a
+C0182,Carol   Lee,carol.lee182@example.com,06/03/2023,61,USA,
+C0287,Isha   Rao,ISHA.RAO287@EXAMPLE.COM,21 Dec 2024,64,Bharat,683.64
+C0146,Sara Ali,NA,2023-03-02,,U.S.,$610.06
+C0159,DEV PATEL,DEV.PATEL159@EXAMPLE.COM,"August 30, 2024",72,USA,2145.44
+C0345,Quinn Taylor,quinn.taylor345@example.com,"November 24, 2022",19,U.S.,"$3,868.67"
+C0308,emma brown,emma.brown308@example.com,20 Feb 2021,28,USA,4058.15
+C0352,OLIVIA MARTIN,olivia.martin352@example.com,10 Sep 2025,46,USA,2751.79
+C0388,Bob   Jones,bob.jones388@example.com,11/07/2021,26,United Kingdom,2764.15
+C0201,CAROL LEE,carol.lee201@example.com,2024-06-22,75,U.S.,"$1,737.43"
+C0072,liam chen,liam.chen72@example.com,"December 15, 2024",28,england,1444.52
+C0325,  Hiro Tanaka ,hiro.tanaka325@example.com,2024-10-16,48,,"$4,735.00"
+C0355,  Bob Jones ,NA,2025-07-04,unknown,Bharat,n/a
+C0305,Pooja Shah,pooja.shah305@example.com,2023-09-14,24,Bharat,$312.16
+C0359,POOJA SHAH,pooja.shah359@example.com,"October 17, 2024",64,england,4197.69
+C0397,Bob Jones,BOB.JONES397@EXAMPLE.COM,"September 08, 2022",60,U.S.,1649.49
+C0327,emma brown,emma.brown327@example.com,10/27/2022,62,UK,1490.66
+C0134,Maya Singh,maya.singh134@example.com,01/17/2022,32,United States,1007.95
+C0061,Bob Jones,bob.jones61@example.com,"December 29, 2022",58,england,
+C0318,maya singh,maya.singh318@example.com,12/20/2023,65,USA,196.24
+C0030,KAVYA NAIR,kavya.nair30@example.com,07 Nov 2022,47,United States,9999999
+C0101,  Sara Ali ,sara.ali101@example.com,"December 04, 2024",32,Bharat,3100.93
+C0020,Tom Green,tom.green20@example.com,09/27/2021,23,United Kingdom,2200.76
+C0325,  Hiro Tanaka ,hiro.tanaka325@example.com,2024-10-16,48,,"$4,735.00"
+C0396,Olivia   Martin,olivia.martin396@example.com,28 Oct 2022,74,United States,2289.37
+C0265,NA,isha.rao265@example.com,2023-05-27,64,UK,$705.42
+C0277,kavya nair,KAVYA.NAIR277@EXAMPLE.COM,2024-03-15,57,england,$571.26
+C0009,LIAM CHEN,bad-email,25 Aug 2024,60,United States,3847.86
+C0284,  Pooja Shah ,POOJA.SHAH284@EXAMPLE.COM,03/04/2021,41,,2880.85
+C0093,Maya   Singh,maya.singh93@example.com,04 Jan 2024,,India,n/a
+C0253,DEV PATEL,dev.patel253@example.com,"April 04, 2022",23,UK,$54.25
+C0033,Quinn   Taylor,quinn.taylor33@example.com,05 Nov 2022,250,,3383.02
+C0136,Pooja   Shah,pooja.shah136@example.com,01 Feb 2025,58,United States,1720.06
+C0023,  Sara Ali ,sara.ali23@example.com,27 Jul 2021,25,USA,2532.56
+C0063,Hiro Tanaka,HIRO.TANAKA63@EXAMPLE.COM,03/13/2025,69,USA,2360.38
+C0373,Liam   Chen,liam.chen373@example.com,"August 31, 2022",56,USA,2405.74
+C0216,  Carol Lee ,carol.lee216@example.com,"March 18, 2025",19,Bharat,2336.54
+C0350,Sara Ali,sara.ali350@example.com,11/24/2024,48,United Kingdom,3485.00
+C0360,Noah Davis,noah.davis360@example.com,08 Mar 2025,37,United Kingdom,1295.46
+C0258,Liam Chen,liam.chen258@example.com,12/06/2025,42,United Kingdom,"$4,688.05"
+C0053,Olivia   Martin,olivia.martin53@example.com,10/31/2022,60,India,n/a
+C0386,Kavya   Nair,kavya.nair386@example.com,07 Aug 2022,36,england,$550.32
+C0174,Noah Davis,noah.davis174@example.com,2025-08-14,42.0,,2821.39
+C0036,Pooja Shah,pooja.shah36@example.com,14 Jun 2025,70,UK,2657.12
+C0179,,carol.lee179@example.com,11/22/2022,66,United Kingdom,"$2,432.23"
+C0168,  Emma Brown ,emma.brown168@example.com,02/16/2021,,United States,376.39
+C0227,noah davis,noah.davis227@example.com,19 May 2021,20,U.S.,2488.36
+C0121,farid khan,FARID.KHAN121@EXAMPLE.COM,2023-04-05,58,Bharat,4241.38
+C0276,bob jones,bob.jones276@example.com,19 Nov 2022,65.0,Bharat,"$4,097.14"
+C0045,Tom   Green,tom.green45@example.com,11/20/2022,64,India,"$4,440.10"
+C0301,EMMA BROWN,emma.brown301@example.com,"October 06, 2023",19,U.S.,1980.98
+C0077,grace kim,grace.kim77@example.com,23 Feb 2024,65,United Kingdom,"$2,538.70"
+C0209,HIRO TANAKA,hiro.tanaka209@example.com,04/28/2025,73,england,
+C0213,Liam   Chen,liam.chen213@example.com,2024-05-12,28,USA,$529.76
+C0268,Olivia Martin,olivia.martin268@example.com,2025-11-05,75,United States,"$1,904.31"
+C0312,GRACE KIM,bad-email,2025-09-02,34,UK,2124.14
+C0217,Tom Green,TOM.GREEN217@EXAMPLE.COM,07/17/2023,41,U.S.,"$4,286.55"
+C0370,maya singh,maya.singh370@example.com,"January 19, 2022",44,United States,"$3,305.27"
+C0010,Dev   Patel,dev.patel10@example.com,06/16/2025,23,UK,4456.15
+C0344,  Liam Chen ,liam.chen344@example.com,"April 11, 2024",22,United States,"$2,276.07"
+C0400,Carol   Lee,carol.lee400@example.com,23 Apr 2025,35,India,1807.68
+C0286,dev patel,dev.patel286@example.com,16 Jul 2021,59,U.S.,259.58
+C0296,Emma Brown,emma.brown296@example.com,25 Jun 2021,70,United States,n/a
+C0105,  Jack Wilson ,jack.wilson105@example.com,12/10/2024,47,england,
+C0313,  Pooja Shah ,pooja.shah313@example.com,2023-02-21,63,USA,4953.31
+C0369,Olivia   Martin,olivia.martin369@example.com,2021-10-20,59,Bharat,447.64
+C0184,Emma   Brown,,05/12/2024,,,
+C0092,Grace   Kim,grace.kim92@example.com,"June 19, 2024",53,U.S.,3419.29
+C0183,emma brown,emma.brown183@example.com,"March 26, 2022",53,Bharat,1144.38
+C0316,TOM GREEN,tom.green316@example.com,02/02/2025,65.0,Bharat,1773.37
+C0389,SARA ALI,null,11 Jan 2022,70,United Kingdom,"$4,865.07"
+C0173,rahul mehta,rahul.mehta173@example.com,13 Jul 2023,59,U.S.,3301.05
+C0233,sara ali,sara.ali233@example.com,"March 04, 2021",29,england,"$1,072.47"
+C0126,Kavya Nair,kavya.nair126@example.com,2025-08-04,72,england,2535.66
+C0037,isha rao,isha.rao37@example.com,03 May 2022,63,england,942.19
+C0157,grace kim,grace.kim157@example.com,"December 14, 2022",68,United States,4581.97
+C0003,  Liam Chen ,liam.chen3@example.com,"May 07, 2024",-5,India,4166.74
+C0243,Tom   Green,tom.green243@example.com,04/09/2023,46,India,103.79
+C0309,Emma   Brown,emma.brown309@example.com,08/31/2021,53,USA,4862.86
+C0290,Liam Chen,LIAM.CHEN290@EXAMPLE.COM,2022-02-14,75,Bharat,509.73
+C0049,  Olivia Martin ,olivia.martin49@example.com,2022-09-12,49,United Kingdom,1257.06
+C0142,  Quinn Taylor ,quinn.taylor142@example.com,2025-03-26,22,India,"$3,141.30"
+C0224,Rahul Mehta,no_at_sign.com,02/18/2022,26,United States,n/a
+C0353,  Jack Wilson ,jack.wilson353@example.com,09/02/2022,28,United Kingdom,2890.42
+C0184,Emma   Brown,emma.brown184@example.com,05/12/2024,71,,965.05
+C0332,SARA ALI,sara.ali332@example.com,"March 20, 2021",59,USA,1414.29
+C0377,Bob Jones,-,13 Feb 2022,42,USA,4402.68
+C0161,Olivia   Martin,-,2031-01-01,53,United Kingdom,"$4,933.22"
+C0337,null,olivia.martin337@example.com,"February 21, 2024",23,United States,378.54
+C0220,,sara.ali220@example.com,2021-02-19,66,USA,370.15
+C0100,Bob   Jones,bob.jones100@example.com,2023-07-05,26,Bharat,3704.05
+C0236,Sara   Ali,sara.ali236@example.com,2023-10-02,64,USA,648.68
+C0118,Dev Patel,DEV.PATEL118@EXAMPLE.COM,2024-01-29,71,United States,182.31
+C0342,grace kim,john@@x,2022-10-16,23,United Kingdom,"$3,062.23"
+C0002,Farid   Khan,farid.khan2@example.com,02/27/2024,27,India,1785.54
+C0114,Sara Ali,sara.ali114@example.com,2025-05-06,49,United States,1498.41
+C0392,alice smith,alice.smith392@example.com,2023-03-15,32,United Kingdom,2213.72
+C0175,liam chen,no_at_sign.com,26 Apr 2022,37.0,,4111.77
+C0254,DEV PATEL,dev.patel254@example.com,2025-03-15,58,Bharat,2026.14
+C0375,OLIVIA MARTIN,NA,2021-12-28,62,england,2696.01
+C0185,  Liam Chen ,liam.chen185@example.com,"March 09, 2022",40,england,1250.40
+C0166,grace kim,grace.kim166@example.com,03 Oct 2025,,United Kingdom,"$4,799.21"
+C0373,Liam   Chen,liam.chen373@example.com,"August 31, 2022",56,USA,2405.74
+C0275,null,tom.green275@example.com,"December 04, 2022",75,United States,3931.51
+C0193,Bob   Jones,bob.jones193@example.com,"October 15, 2021",44,Bharat,
+C0001,  Bob Jones ,BOB.JONES1@EXAMPLE.COM,13 Nov 2024,55,United Kingdom,"$4,295.82"
+C0055,isha rao,isha.rao55@example.com,"June 04, 2024",49,United Kingdom,2012.31
+C0376,emma brown,emma.brown376@example.com,26 Jun 2021,26,england,"$1,005.07"
+C0029,jack wilson,jack.wilson29@example.com,02/28/2024,31,UK,1474.46
+C0207,isha rao,isha.rao207@example.com,11/14/2023,21,Bharat,2264.45
+C0384,Carol Lee,carol.lee384@example.com,17 Apr 2022,57,england,819.21
+C0050,TOM GREEN,tom.green50@example.com,2022-01-15,27,India,$169.67
+C0351,  Rahul Mehta ,rahul.mehta351@example.com,28 Oct 2021,63,USA,2112.22
+C0021,Bob Jones,bob.jones21@example.com,10 Apr 2023,59,United Kingdom,1490.89
+C0294,Noah Davis,noah.davis294@example.com,06 Aug 2023,53,Bharat,"$3,304.76"
+C0177,N/A,quinn.taylor177@example.com,14 Dec 2024,30,,2501.91
+C0336,Emma   Brown,emma.brown336@example.com,19 Jul 2025,75,england,"$2,923.41"
+C0380,Bob   Jones,bob.jones380@example.com,05 Jul 2023,51,United Kingdom,957.36
+C0034,Kavya Nair,kavya.nair34@example.com,08/15/2023,38,United Kingdom,"$4,269.66"
+C0172,Liam Chen,bad-email,"August 12, 2023",43,england,1357.20
+C0008,Liam   Chen,liam.chen8@example.com,04/29/2021,unknown,United States,"$2,443.56"
+C0319,Rahul Mehta,rahul.mehta319@example.com,07/15/2025,72,england,675.75
+C0189,Maya   Singh,,"March 31, 2022",,U.S.,
+C0107,GRACE KIM,grace.kim107@example.com,"May 23, 2024",61,United States,n/a
+C0098,Olivia   Martin,bad-email,09 Nov 2024,38,UK,"$1,137.59"
+C0111,  Hiro Tanaka ,hiro.tanaka111@example.com,"January 14, 2021",63,United States,USD 4838.61
+C0361,QUINN TAYLOR,quinn.taylor361@example.com,"October 25, 2024",41,USA,53.77
+C0070,  Carol Lee ,carol.lee70@example.com,2021-03-15,51,USA,
+C0347,BOB JONES,bob.jones347@example.com,08/12/2024,26,england,3014.07
+C0130,  Emma Brown ,emma.brown130@example.com,24 Apr 2022,,Bharat,174.35
+C0317,JACK WILSON,jack.wilson317@example.com,23 Feb 2023,36,U.S.,n/a
+C0259,  Farid Khan ,farid.khan259@example.com,17 Apr 2025,27,UK,1454.65
+C0323,Farid Khan,farid.khan323@example.com,04/05/2021,36,United States,3525.01
+C0151,Farid Khan,farid.khan151@example.com,22 Aug 2021,33,england,2538.51
+C0338,Isha Rao,isha.rao338@example.com,08/05/2024,59,,4034.98
+C0027,Bob Jones,bob.jones27@example.com,2024-08-26,36,United Kingdom,
+C0399,  Bob Jones ,bob.jones399@example.com,2023-08-31,73,UK,1381.36
+C0094,carol lee,carol.lee94@example.com,2025-09-14,74,U.S.,3140.66
+C0149,  Liam Chen ,liam.chen149@example.com,garbage,70,U.S.,4411.90
+C0120,Kavya Nair,kavya.nair120@example.com,2023-01-02,26,United Kingdom,4156.91
+C0343,Noah   Davis,noah.davis343@example.com,2022-08-02,64,Bharat,4163.70
+C0139,ISHA RAO,ISHA.RAO139@EXAMPLE.COM,29 Dec 2024,28,,"$2,657.53"
+C0170,NA,bad-email,09/08/2021,52,United States,3873.77
+C0364,Hiro Tanaka,hiro.tanaka364@example.com,12/07/2023,36,USA,1309.09
+C0203,Tom Green,tom.green203@example.com,"March 24, 2024",59,,1798.44
+C0148,  Rahul Mehta ,rahul.mehta148@example.com,"September 30, 2021",47.0,USA,3374.10
+C0278,noah davis,noah.davis278@example.com,2024-04-17,75,United Kingdom,149.11
+C0257,GRACE KIM,grace.kim257@example.com,17 Mar 2021,38,India,USD 1395.71
+C0132,Hiro Tanaka,hiro.tanaka132@example.com,01/13/2023,72,USA,4754.31
+C0250,Jack   Wilson,jack.wilson250@example.com,"August 24, 2023",61,england,3156.34
+C0153,Grace   Kim,grace.kim153@example.com,11 Jun 2025,46,United States,3496.99
+C0363,quinn taylor,quinn.taylor363@example.com,16 Dec 2025,52.0,United Kingdom,"$2,257.49"

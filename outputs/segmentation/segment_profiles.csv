@@ -1,0 +1,6 @@
+segment,customers,avg_age,avg_income_k,avg_spending_score,label
+0,81,42.7,55.3,49.5,"Average income, average spend"
+1,39,32.7,86.5,82.1,"High income, high spend"
+2,22,25.3,25.7,79.4,"Low income, high spend"
+3,35,41.1,88.2,17.1,"High income, low spend"
+4,23,45.2,26.3,20.9,"Low income, low spend"

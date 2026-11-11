@@ -1,0 +1,23 @@
+Raw rows:        425
+Clean rows:      361
+Quarantined:     39
+Duplicates gone: 25
+
+Audit summary:
+                    step      column  rows_affected                   note
+     standardize_columns           *              7                       
+      null_tokens_to_NaN        name             16                       
+      null_tokens_to_NaN       email             42                       
+      null_tokens_to_NaN signup_date             11                       
+      null_tokens_to_NaN         age             29                       
+      null_tokens_to_NaN     country             29                       
+      null_tokens_to_NaN       spend             41                       
+    invalid_email_nulled       email             19                       
+    type_coercion_failed       email             19          cast to email
+    type_coercion_failed signup_date              1           cast to date
+   category_standardized     country            396                       
+exact_duplicates_removed           *             15                       
+  key_duplicates_removed customer_id             10 kept most complete row
+        rows_quarantined           *             39                       
+          median_imputed         age             18      flag column added
+          median_imputed       spend             29      flag column added

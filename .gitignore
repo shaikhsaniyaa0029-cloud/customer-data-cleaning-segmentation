@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Raw datasets (download them yourself, see data/raw/README.md)
+data/raw/*
+!data/raw/README.md
+
+# Files derived from the raw Mall Customers data
+outputs/mall_cleaning/
+outputs/segmentation/customers_segmented.csv
+# (outputs/segmentation/segments.png and segment_profiles.csv ARE committed, they are aggregates)
